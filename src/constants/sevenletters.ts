@@ -507,6 +507,8 @@ export const MOREWORDS7: {[key:string]:string } = {
        'hillary': 'Edmund Hillary appears in Joy to the World.',
        'belinda': 'Belinda Chandra is a companion of the Fifteenth Doctor.',
        'chandra': 'Belinda Chandra is a companion of the Fifteenth Doctor.',
+       'chowdry': 'Hassan Chowdry is a character in Lux.',
+       'gossage': 'Robyn Gossage is a character in Lux.',
 };
 
 

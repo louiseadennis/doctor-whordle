@@ -285,4 +285,13 @@ export const MOREWORDS = [
 'akhim',
 'patil',
 'svild',
+'manny',
+'kirby',
+'tombo',
+'sasha',
+'shago',
+'sally',
+'logan',
+'robyn',
+'miami',
 ]

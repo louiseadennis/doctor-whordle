@@ -485,6 +485,6 @@ export const WORDSDICTR: {[key:string]:string } = {
    'helmic': 'The Helmic Regulator controls the accuracy of flight through the vortex.',
    'larvae': 'The Zarbi used Larvae guns in The Web Planet.',
    'lurman': 'Vorg and Shirna in Carnival of Monsters are Lurmans.',
-
+   'polish': 'Polish! Polish!',
    };
 

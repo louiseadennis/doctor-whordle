@@ -396,4 +396,7 @@ export const MOREWORDSR = [
 'norgay',
 'edmund',
 'norway',
+'scoley',
+'hassan',
+'lizzie',
 ]
