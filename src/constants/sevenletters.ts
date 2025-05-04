@@ -509,6 +509,7 @@ export const MOREWORDS7: {[key:string]:string } = {
        'chandra': 'Belinda Chandra is a companion of the Fifteenth Doctor.',
        'chowdry': 'Hassan Chowdry is a character in Lux.',
        'gossage': 'Robyn Gossage is a character in Lux.',
+       'bethick': 'Albie Bethick is a character in The Well.',
 };
 
 

@@ -294,4 +294,12 @@ export const MOREWORDS = [
 'logan',
 'robyn',
 'miami',
+'hanno',
+'callo',
+'rence',
+'sabba',
+'albie',
+'hyten',
+'ulric',
+'dazen'
 ]
