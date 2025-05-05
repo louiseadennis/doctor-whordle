@@ -486,5 +486,8 @@ export const WORDSDICTR: {[key:string]:string } = {
    'larvae': 'The Zarbi used Larvae guns in The Web Planet.',
    'lurman': 'Vorg and Shirna in Carnival of Monsters are Lurmans.',
    'polish': 'Polish! Polish!',
+   'conrad': 'Conrad Clark is the villain in Lucky Day.',
+   'shreek': 'The Shreek is a monster in Lucky Day.',
+   'miller': 'Louise Miller is Ruby Sunday\'s birth mother.',
    };
 

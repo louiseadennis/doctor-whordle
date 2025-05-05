@@ -301,5 +301,9 @@ export const MOREWORDS = [
 'albie',
 'hyten',
 'ulric',
-'dazen'
+'dazen',
+'moira',
+'clark',
+'alfie',
+'derek',
 ]

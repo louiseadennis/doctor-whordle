@@ -400,4 +400,7 @@ export const MOREWORDSR = [
 'hassan',
 'lizzie',
 'cassio',
+'jordan',
+'sparky',
+'audrey',
 ]

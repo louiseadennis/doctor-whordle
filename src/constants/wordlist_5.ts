@@ -388,6 +388,7 @@ export const WORDSDICT: {[key:string]:string } = {
    'wirrn': 'The Wirrn were monsters that appeared in The Ark in Space.',
    'potts': 'Bill Potts was a companion to the Twelfth Doctor.',
    'xeros': 'The Tardis visits the planet Xeros in The Space Museum.',
+   'lucky': 'Lucky Day is a Fifteenth Doctor story.',
    'empty': 'The Empty Child is a Ninth Doctor story.',
    'bride': 'The Runaway Bride is a Tenth Doctor story.',
    'styre': 'Styre is the Sontaran in The Sontaran Experiment.',
