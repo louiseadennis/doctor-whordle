@@ -306,4 +306,8 @@ export const MOREWORDS = [
 'clark',
 'alfie',
 'derek',
+'esosa',
+'tunde',
+'okoli',
+'lagos',
 ]

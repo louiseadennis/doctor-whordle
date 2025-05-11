@@ -489,5 +489,7 @@ export const WORDSDICTR: {[key:string]:string } = {
    'conrad': 'Conrad Clark is the villain in Lucky Day.',
    'shreek': 'The Shreek is a monster in Lucky Day.',
    'miller': 'Louise Miller is Ruby Sunday\'s birth mother.',
+   'engine': 'The Story and the Engine is a Fifteenth Doctor story.',
+   'barber': 'The Barber is the villain in The Story and the Engine.',
    };
 

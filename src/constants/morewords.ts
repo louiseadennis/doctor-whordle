@@ -403,4 +403,7 @@ export const MOREWORDSR = [
 'jordan',
 'sparky',
 'audrey',
+'rashid',
+'anansi',
+'obioma',
 ]

@@ -510,6 +510,7 @@ export const MOREWORDS7: {[key:string]:string } = {
        'chowdry': 'Hassan Chowdry is a character in Lux.',
        'gossage': 'Robyn Gossage is a character in Lux.',
        'bethick': 'Albie Bethick is a character in The Well.',
+       'adebayo': 'Tunde Adebayo is a character in The Story and the Engine.',
 };
 
 
