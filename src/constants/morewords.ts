@@ -406,4 +406,10 @@ export const MOREWORDSR = [
 'rashid',
 'anansi',
 'obioma',
+'sabine',
+'bavier',
+'zufall',
+'devika',
+'balham',
+'winnie',
 ]

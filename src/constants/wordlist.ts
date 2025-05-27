@@ -486,10 +486,12 @@ export const WORDSDICTR: {[key:string]:string } = {
    'larvae': 'The Zarbi used Larvae guns in The Web Planet.',
    'lurman': 'Vorg and Shirna in Carnival of Monsters are Lurmans.',
    'polish': 'Polish! Polish!',
-   'conrad': 'Conrad Clark is the villain in Lucky Day.',
+   'conrad': 'Conrad Clark is the villain in Lucky Day and Wish World.',
    'shreek': 'The Shreek is a monster in Lucky Day.',
    'miller': 'Louise Miller is Ruby Sunday\'s birth mother.',
    'engine': 'The Story and the Engine is a Fifteenth Doctor story.',
    'barber': 'The Barber is the villain in The Story and the Engine.',
+   'norton': 'Graham Norton has appeared several time in Doctor Who.  Once, intentionally.',
+   'hellia': 'The Planet Hellia is a planet exploited by the corportation that sponsors the Interstellar Song Contest.',
    };
 

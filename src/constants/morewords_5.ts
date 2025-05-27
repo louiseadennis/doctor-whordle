@@ -310,4 +310,6 @@ export const MOREWORDS = [
 'tunde',
 'okoli',
 'lagos',
+'kazah',
+'jeddy',
 ]

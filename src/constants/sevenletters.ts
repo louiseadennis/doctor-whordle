@@ -192,7 +192,7 @@ export const WORDSDICT7: {[key:string]:string } = {
        'jericho': 'Professor Jericho assists Yaz and Dan in Flux.',
        'shirley': 'Shirley Bingham is UNIT\'s scientific advisor in The Star Beast and The Giggle.',
        'bingham': 'Shirley Bingham is UNIT\'s scientific advisor in The Star Beast and The Giggle.',
-       'ibrahim': 'Colonel Ibrahim is a UNIT colonel who appears in The Giggle and The Legend of Ruby Sunday/The Empire of Death.',
+       'ibrahim': 'Colonel Ibrahim is a UNIT colonel who appears in The Giggle, The Legend of Ruby Sunday/The Empire of Death and Wish World/The Reality War.',
        'maestro': 'Maestro is the villain in The Devil\'s Chord.',
        'beatles': 'The Beatles appear in The Devil\'s Chord.',
        'mantrap': 'The Man-Traps are the monsters in Dot and Bubble.',
@@ -263,6 +263,11 @@ export const WORDSDICT7: {[key:string]:string } = {
        'demeter': 'The Vervoids grow from Demeter Seeds.',
        'hostile': 'The Hostile Action Displacement System (HADS) very occasionally removes the Tardis from danger.',
        'yrcanos': 'King Yrcanos maries Peri.',
+       'almondo': 'Joy Almondo is a pseudo-companion in Joy to the World.',
+       'belinda': 'Belinda Chandra is a companion of the Fifteenth Doctor.',
+       'chandra': 'Belinda Chandra is a companion of the Fifteenth Doctor.',
+       'contest': 'The Interstellar Song Contest is a Fifteenth Doctor episode.',
+       'hellion': 'The Hellions are a horned species that appear in The Interstellar Song Contest.',
 };
 
 export const MOREWORDS7: {[key:string]:string } = {
@@ -502,15 +507,14 @@ export const MOREWORDS7: {[key:string]:string } = {
        'darrius': 'Darrius is a character in The Keys of Marinus.',
        'webster': 'Webster is a character in The Reign of Terror',
        'rouvray': 'Rouvray is a character in The Reign of Terror',
-       'almondo': 'Joy Almondo is a pseudo-companion in Joy to the World.',
        'tenzing': 'Tenzing Norgay appears in Joy to the World.',
        'hillary': 'Edmund Hillary appears in Joy to the World.',
-       'belinda': 'Belinda Chandra is a companion of the Fifteenth Doctor.',
-       'chandra': 'Belinda Chandra is a companion of the Fifteenth Doctor.',
        'chowdry': 'Hassan Chowdry is a character in Lux.',
        'gossage': 'Robyn Gossage is a character in Lux.',
        'bethick': 'Albie Bethick is a character in The Well.',
        'adebayo': 'Tunde Adebayo is a character in The Story and the Engine.',
+       'maxwell': 'Nina Maxwell is a character in The Interstellar Song Contest.',
+       'lakshmi': 'Lakshmi Chandra is a character in Wish World.',
 };
 
 
