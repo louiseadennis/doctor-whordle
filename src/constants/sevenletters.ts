@@ -268,6 +268,7 @@ export const WORDSDICT7: {[key:string]:string } = {
        'chandra': 'Belinda Chandra is a companion of the Fifteenth Doctor.',
        'contest': 'The Interstellar Song Contest is a Fifteenth Doctor episode.',
        'hellion': 'The Hellions are a horned species that appear in The Interstellar Song Contest.',
+       'reality': 'The Reality War is a Fifteenth Doctor story.',
 };
 
 export const MOREWORDS7: {[key:string]:string } = {
@@ -514,7 +515,7 @@ export const MOREWORDS7: {[key:string]:string } = {
        'bethick': 'Albie Bethick is a character in The Well.',
        'adebayo': 'Tunde Adebayo is a character in The Story and the Engine.',
        'maxwell': 'Nina Maxwell is a character in The Interstellar Song Contest.',
-       'lakshmi': 'Lakshmi Chandra is a character in Wish World.',
+       'lakshmi': 'Lakshmi Chandra is a character in Wish World and The Reality War.',
 };
 
 
