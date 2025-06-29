@@ -347,7 +347,7 @@ export const WORDSDICT: {[key:string]:string } = {
    'swarm': 'Swarm is one of the villains in Flux.',
    'hotel': 'The Time Hotel appears in Joy to the World.',
    'orion': 'The Fifth Doctor often tried to get to the Eye of Orion, succeeding in The Five Doctors.',
-   'shaya': 'Shata Costallion leads the troopers in The Well.',
+   'shaya': 'Shaya Costallion leads the troopers in The Well.',
    'snake': 'The Mara takes the form of a giant snake.',
    'reign': 'The Reign of Terror is a First Doctor story.',
    'vault': 'In his final series, the Twelfth Doctor keeps Missy locked in a vault.',
