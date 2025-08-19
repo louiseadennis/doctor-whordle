@@ -1,7 +1,7 @@
 import { enUS } from 'date-fns/locale'
 
 export const WORDLENGTH = 5
-export const WORDLENGTHR = 6
+export const WORDLENGTHR = 7
 export const CHALLENGESR = 6
 export const CHALLENGES = 6
 export const ALERT_TIME_MS = 2500
