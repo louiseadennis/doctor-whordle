@@ -1,4 +1,4 @@
-export const MOREWORDSR = [
+export const MOREWORDS = [
 'joanna',
 'berger',
 'archer',
