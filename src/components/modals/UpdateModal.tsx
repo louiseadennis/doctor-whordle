@@ -7,7 +7,13 @@ type Props = {
 
 export const UpdateModal = ({ isOpen, handleClose }: Props) => {
   return (
-    <BaseModal title="Update Message July 2024" isOpen={isOpen} handleClose={handleClose}>
+    <BaseModal title="Update Message October 2025" isOpen={isOpen} handleClose={handleClose}>
+      <p className="text-sm text-gray-500 dark:text-gray-300 text-left">
+        We've finished the five letter words again and have switched back to six letter words.  The random words are seven letters - I'm not sure about this list, it seems a bit too tricky but I might swap them into the main list once the six letter words are done once more. 
+      </p>
+
+<br></br>
+        <h3>Update Message July 2024</h3>
       <p className="text-sm text-gray-500 dark:text-gray-300 text-left">
         This is advance notice that we are coming to the end of the six letter word list.  After a bit of thought I have over-hauled the five letter word list and this app will be switching to five letters for the word of the day and six letters for the random word on Tuesday.  
       </p>

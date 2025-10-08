@@ -19,7 +19,7 @@ import queryString from 'query-string'
 import { ENABLE_ARCHIVED_GAMES } from '../constants/settings'
 
 // 1 January 2022 Game Epoch
-export const firstGameDate = new Date('July 16, 2024 00:00:00')
+export const firstGameDate = new Date('October 9, 2025 00:00:00')
 export const periodInDays = 1
 
 export const isWordInWordList = (word: string) => {
