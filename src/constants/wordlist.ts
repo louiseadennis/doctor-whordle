@@ -197,6 +197,7 @@ export const WORDSDICT: {[key:string]:string } = {
    'cotton': 'Stubbs and Cotton are two sympathetic guards in The Mutants.',
    'levene': 'Jon Levene played UNIT sergeant Benton.',
    'audrey': 'Ace\'s mother was called Audrey.  Ace met her as a baby in The Curse of Fenric.',
+   'change': 'Change, my dear, and not a moment too soon.',
    'louvre': 'The City of Death involves the theft of the Mona Lisa from the Louvre.',
    'cryons': 'The Cryons lived on Telos before the Cybermen came.',
    'duggan': 'Duggan is a detective, somewhat prone to smashing things, in City of Death.',

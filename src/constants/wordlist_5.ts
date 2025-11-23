@@ -1,4 +1,5 @@
 export const WORDSDICT: {[key:string]:string } = {
+   'brett': 'Brett Vyon, played by Nicolas Courtney is Sara Kingdom\'s brother.',
    'mavic': 'Mavic Chen is the villain in The Daleks\' Masterplan.',
    'skorr': 'Commander Skorr is a Sontaran in The Sontaran Stratagem.',
    'angel': 'The Weeping Angels are a popular Doctor Who Monster.',
